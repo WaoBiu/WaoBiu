@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaoBiu
 - 👀 I’m interested in LSRTM, Data assimlation 
-- 🌱 I’m currently learning LSRTM and ML in migration
+- 🌱 I’m currently learning LSRTM and GAN in migration
 - 📫 How to reach me 
        You can connect on me via xuteng20@mails.ucas.ac.cn
 
